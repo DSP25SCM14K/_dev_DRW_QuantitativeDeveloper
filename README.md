@@ -4,14 +4,16 @@ Role-focused portfolio for Dev Kumar. Static HTML, CSS, and JavaScript with an a
 
 ## Company and role research
 
-The site’s visual and content direction reflects the published role scope; public-facing copy emphasizes the work and experience without naming a target company.
+**Role and company context.** DRW’s current New York Quantitative Developer/Research Engineer posting is an early-stage systematic mid-frequency trading effort. It emphasizes broad ownership of research and trading platforms, point-in-time and reproducible data, backtesting/simulation, portfolio and execution tooling, production ML workflows, and performance at scale. The team is small and cross-functional, with short research-to-production cycles and accountability for live reliability.
+
+**Résumé fit and portfolio decisions.** The resume demonstrates nearly the same lifecycle: a Python/C++ research platform for 12 researchers, reproducible as-of data, a point-in-time feature store, distributed simulation, production model release, and live reliability. The strongest story is the 70% reduction in iteration time plus model/data correctness and production operations.
 
 Official sources reviewed:
 
-- [DRW — Quantitative Developer posting](https://www.drw.com/work-at-drw/listings/quantitative-developer-3465309)
-- [DRW — Who we are](https://www.drw.com/work-at-drw/who-we-are)
-- [DRW — firm home](https://www.drw.com/)
+- [https://www.drw.com/work-at-drw/listings/quantitative-developer-3465309](https://www.drw.com/work-at-drw/listings/quantitative-developer-3465309)
+- [https://www.drw.com/work-at-drw/who-we-are](https://www.drw.com/work-at-drw/who-we-are)
+- [https://www.drw.com/](https://www.drw.com/)
 
 ## Publish
 
-GitHub Actions deploys this static website to GitHub Pages on pushes to `main`.
+GitHub Actions deploys this static website to GitHub Pages on pushes to `main`. Experience section: 15 bullets.
